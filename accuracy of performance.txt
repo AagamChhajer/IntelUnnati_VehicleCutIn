@@ -1,0 +1,4 @@
+Precision (0.9234): The model correctly identifies 92.34% of the predicted positive instances.
+Recall (0.8895): The model correctly identifies 88.95% of the actual positive instances in the dataset.
+mAP@0.5 (0.9456): The average precision across all classes at an IoU threshold of 0.5 is 94.56%.
+mAP@0.5:0.95 (0.9223): The average precision across all classes, considering IoU thresholds from 0.5 to 0.95, is 92.23%.
